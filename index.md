@@ -221,7 +221,7 @@ Edit the text to match who can attend the workshop. For instance:
   The workshop is designed to accommodate participants with varying levels of experience. No prior coding background is required since fundamental concepts will be covered during the workshop. Some familiarity with basic astronomy concepts, such as reference frames, proper motion, isochrones, and color-magnitude diagrams, would be beneficial. However, lectures will be tailored based on participants' familiarity, as assessed through the interest form. Eligibility is primarily based on the applicant's intention to transfer in the near future, their perceived level of preparedness for the transfer process, and their interest in developing programming skills for undergraduate research.
 
   <p class="text-center">
-  <a href="https://forms.gle/StU17gq9vmfkGKvg9">
+  <a href="https://forms.gle/Mosv9amBTwpdshko7">
     <button type="button" class="btn btn-info">Submit Your Application</button>
   </a>
 </p>
