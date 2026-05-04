@@ -88,7 +88,7 @@ the pitch.
 {% endcomment %}
 
 <p>
-Welcome to the homepage for the Spring 2025 Computational Astrophysics Research Preparation (CARP) workshop – a unique mentorship and Python-based coding experience tailored for prospective community college transfer students in San Diego County.
+Welcome to the homepage for the Spring 2026 Computational Astrophysics Research Preparation (CARP) workshop – a unique mentorship and Python-based coding experience tailored for prospective community college transfer students in San Diego County.
 
 <p>
   <strong>Objective:</strong>
